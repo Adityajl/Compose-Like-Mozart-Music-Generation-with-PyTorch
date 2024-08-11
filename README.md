@@ -1,5 +1,3 @@
----
-
 # Compose Like Mozart: Music Generation with PyTorch
 
 Welcome to the "Compose Like Mozart" project! This repository showcases an innovative approach to music generation using PyTorch, inspired by the timeless compositions of Wolfgang Amadeus Mozart. 
@@ -44,5 +42,3 @@ This project represents a significant innovation in generative AI by combining c
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
